@@ -3,13 +3,13 @@
 <h3 align="center">I am a well-rounded programmer with a broad range of skills and interests in web development, design, machine learning, DevOps, and more. My diverse knowledge and experience make them a valuable contributor to any project or development team.</h3>
 
 
+- 😄 My Pronouns: hansal; he/him
+
 - 🔭 I’m currently working on **hanshal18**
 
 - 👯 I’m looking to collaborate on [cheetsheets](https://github.com/hanshal18/cheatsheets)
 
 - 📫 How to reach me **hanshal18@hotmail.com**
-
-- 😄 My Pronouns: hansal; he/him
 
 - 🌱 I’m currently learning **Production Architecture of Application**
 
