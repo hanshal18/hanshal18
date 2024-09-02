@@ -2,19 +2,24 @@
 <h1 align="center">Hi 👋, I'm Hanshal Bhatiya</h1>
 <h3 align="center">I am a well-rounded programmer with a broad range of skills and interests in web development, design, machine learning, DevOps, and more. My diverse knowledge and experience make them a valuable contributor to any project or development team.</h3>
 
+
 - 🔭 I’m currently working on **hanshal18**
+
+- 👯 I’m looking to collaborate on [cheetsheets](https://github.com/hanshal18/cheatsheets)
+
+- 📫 How to reach me **hanshal18@hotmail.com**
 
 - 😄 My Pronouns: hansal; he/him
 
 - 🌱 I’m currently learning **Production Architecture of Application**
 
-- 👨‍💻 All of my projects are available at [18/projects](hanshal18.com/projects)
+- 👨‍💻 All of my projects are available at [18/projects](https://www.hanshal18.com/projects)
 
-- 📝 I regularly write articles on [18/blog](hanshal18.com/blog)
+- 📝 I regularly write articles on [18/blog](https://www.hanshal18.com/blog)
 
 - 💬 Ask me about **Anything Related JAVASCRIPT(& Typescript)**
 
-- 📄 Know about my experiences [18/resume](hanshal18.com/resume)
+- 📄 Know about my experiences [18/resume](https://www.hanshal18.com/resume)
 
 - ⚡ Fun fact **ask chatgpt, I am busy.**
 
